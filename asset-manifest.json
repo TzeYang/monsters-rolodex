@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TzeYang/monster-rolodex/static/css/main.3ceac802.chunk.css",
+    "main.js": "/TzeYang/monster-rolodex/static/js/main.de26b5fc.chunk.js",
+    "main.js.map": "/TzeYang/monster-rolodex/static/js/main.de26b5fc.chunk.js.map",
+    "runtime-main.js": "/TzeYang/monster-rolodex/static/js/runtime-main.cbc5424a.js",
+    "runtime-main.js.map": "/TzeYang/monster-rolodex/static/js/runtime-main.cbc5424a.js.map",
+    "static/js/2.dadca22e.chunk.js": "/TzeYang/monster-rolodex/static/js/2.dadca22e.chunk.js",
+    "static/js/2.dadca22e.chunk.js.map": "/TzeYang/monster-rolodex/static/js/2.dadca22e.chunk.js.map",
+    "static/js/3.d786c8b5.chunk.js": "/TzeYang/monster-rolodex/static/js/3.d786c8b5.chunk.js",
+    "static/js/3.d786c8b5.chunk.js.map": "/TzeYang/monster-rolodex/static/js/3.d786c8b5.chunk.js.map",
+    "index.html": "/TzeYang/monster-rolodex/index.html",
+    "static/css/main.3ceac802.chunk.css.map": "/TzeYang/monster-rolodex/static/css/main.3ceac802.chunk.css.map",
+    "static/js/2.dadca22e.chunk.js.LICENSE.txt": "/TzeYang/monster-rolodex/static/js/2.dadca22e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbc5424a.js",
+    "static/js/2.dadca22e.chunk.js",
+    "static/css/main.3ceac802.chunk.css",
+    "static/js/main.de26b5fc.chunk.js"
+  ]
+}
